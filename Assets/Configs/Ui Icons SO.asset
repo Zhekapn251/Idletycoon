@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7af312108ca4d38805e62f53b1d399c, type: 3}
+  m_Name: Ui Icons SO
+  m_EditorClassIdentifier: 
+  FurnitureIcons:
+  - Type: 0
+    Icon: {fileID: 656615744, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+  - Type: 1
+    Icon: {fileID: 913033858, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+  - Type: 2
+    Icon: {fileID: 1502164905, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+  - Type: 3
+    Icon: {fileID: -511977761, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+  - Type: 5
+    Icon: {fileID: 753750622, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+  - Type: 6
+    Icon: {fileID: 1802395292, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+  - Type: 7
+    Icon: {fileID: -21671893, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+  - Type: 8
+    Icon: {fileID: 663709026, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+  - Type: 9
+    Icon: {fileID: 331136641, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+  - Type: 11
+    Icon: {fileID: 406817054, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+  - Type: 10
+    Icon: {fileID: 1024859952, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+  EmployeeIcons:
+  - Type: 0
+    Icon:
+    - {fileID: -1151887390, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+    - {fileID: -1079224027, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+    - {fileID: -1151887390, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+  - Type: 1
+    Icon:
+    - {fileID: 1325388287, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+    - {fileID: 1560202007, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+  - Type: 2
+    Icon:
+    - {fileID: -736273127, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}
+    - {fileID: 1882823840, guid: dbcdc58d64642534197d016c46ef45a4, type: 3}

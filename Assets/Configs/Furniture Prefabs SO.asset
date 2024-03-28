@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2246d2b22838429ca85d13364f03e11e, type: 3}
+  m_Name: Furniture Prefabs SO
+  m_EditorClassIdentifier: 
+  Prefabs:
+  - FurnitureType: 0
+    PrefabPath: Furniture/Toilet/Toilet
+    ModelsPath:
+    - Furniture/Toilet/toilet blue
+    - Furniture/Toilet/toilet green
+    - Furniture/Toilet/toilet pink
+    - Furniture/Toilet/toilet red
+    - Furniture/Toilet/toilet yellow
+  - FurnitureType: 6
+    PrefabPath: Furniture/Fridge/Fridge
+    ModelsPath:
+    - Furniture/Fridge/fridge black
+    - Furniture/Fridge/fridge blue
+    - Furniture/Fridge/fridge green
+    - Furniture/Fridge/fridge red
+    - Furniture/Fridge/fridge yellow
+  - FurnitureType: 5
+    PrefabPath: Furniture/Reception/Reception
+    ModelsPath:
+    - Furniture/Reception/ReceptionDesk black
+    - Furniture/Reception/ReceptionDesk blue
+    - Furniture/Reception/ReceptionDesk purple
+    - Furniture/Reception/ReceptionDesk red
+    - Furniture/Reception/ReceptionDesk yellow
+  - FurnitureType: 8
+    PrefabPath: Furniture/ServingTable/ServingTable
+    ModelsPath:
+    - Furniture/ServingTable/longTable black
+    - Furniture/ServingTable/longTable brown
+    - Furniture/ServingTable/longTable green
+    - Furniture/ServingTable/longTable red
+    - Furniture/ServingTable/longTable yellow
+  - FurnitureType: 1
+    PrefabPath: Furniture/ToiletSink/ToiletSink
+    ModelsPath:
+    - Furniture/ToiletSink/sink
+    - Furniture/ToiletSink/sink black
+    - Furniture/ToiletSink/sink green
+    - ToiletSink/sink orange
+    - Furniture/ToiletSink/sink yellow
+  - FurnitureType: 9
+    PrefabPath: Furniture/Stove/Stove
+    ModelsPath:
+    - Furniture/Stove/oven
+    - Furniture/Stove/oven green
+    - Furniture/Stove/oven purpule
+    - Furniture/Stove/oven red
+    - Furniture/Stove/oven yellow
+  - FurnitureType: 10
+    PrefabPath: Furniture/CleaningShelf/CleaningShelf
+    ModelsPath:
+    - Furniture/CleaningShelf/CleaningShelf 1
+    - Furniture/CleaningShelf/CleaningShelf blue
+    - Furniture/CleaningShelf/CleaningShelf green
+    - Furniture/CleaningShelf/CleaningShelf red
+    - Furniture/CleaningShelf/CleaningShelf yellow
+  - FurnitureType: 7
+    PrefabPath: Furniture/CuttingTable/CuttingTable
+    ModelsPath:
+    - Furniture/CuttingTable/cuttingTable blue
+    - Furniture/CuttingTable/cuttingTable gray
+    - Furniture/CuttingTable/cuttingTable green
+    - Furniture/CuttingTable/cuttingTable red
+    - Furniture/CuttingTable/cuttingTable yellow
+  - FurnitureType: 2
+    PrefabPath: Furniture/Table/Table
+    ModelsPath:
+    - Furniture/Table/table brown
+    - Furniture/Table/table green
+    - Furniture/Table/table purple
+    - Furniture/Table/table red
+    - Furniture/Table/table yellow
+  - FurnitureType: 11
+    PrefabPath: Furniture/Cupboard/CupBoard
+    ModelsPath:
+    - Furniture/Cupboard/cupboard green
+    - Furniture/Cupboard/cupboard grey
+    - Furniture/Cupboard/cupboard purple
+    - Furniture/Cupboard/cupboard red
+    - Furniture/Cupboard/cupboard yellow
